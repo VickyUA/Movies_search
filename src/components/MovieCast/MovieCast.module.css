@@ -1,0 +1,13 @@
+.list {
+  list-style-type: none;
+  display: flex;
+  flex-wrap: wrap;
+  padding-top: 20px;
+}
+
+.liItem {
+  font-size: 15px;
+  padding: 5px;
+  text-decoration: none;
+  color: rgb(3, 7, 46);
+}

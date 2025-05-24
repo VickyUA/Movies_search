@@ -1,0 +1,15 @@
+.wrapper {
+  padding: 10px;
+}
+
+.list {
+  padding: 10px;
+  list-style-type: disc;
+}
+
+.liItem {
+  font-size: 14px;
+  padding: 2px;
+  text-decoration: none;
+  color: rgb(3, 7, 46);
+}

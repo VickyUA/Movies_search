@@ -1,0 +1,17 @@
+.wrapper {
+  display: flex;
+  flex-direction: column;
+  gap: 15px;
+}
+
+.btn {
+  padding: 5px 10px;
+  margin-bottom: 10px;
+  color: rgb(1, 1, 36);
+  font-weight: 700;
+  background-color: rgb(230, 229, 229);
+  border: 2px solid rgb(230, 229, 229);
+  border-radius: 5px;
+  text-decoration: underline;
+  cursor: pointer;
+}
