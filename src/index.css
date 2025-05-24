@@ -5,6 +5,7 @@ body {
   min-width: 320px;
   min-height: 100vh;
   font-family: sans-serif;
+  background-color: rgb(226, 226, 226);
 }
 
 h1,
